@@ -1,62 +1,44 @@
 # Welcome to My Repository
 
+<div align="center">
+  <img src="https://via.placeholder.com/800x200.png?text=Your+Project+Banner" alt="Project Banner" style="border-radius: 10px;">
+</div>
+
+---
+
 Hi there! 👋 I'm **Wasanjith**, and this is a showcase of my project hosted here on GitHub. I believe in clean, maintainable, and scalable code, and I hope you'll find something useful in my work. 😊
 
-## Project Overview
+<div align="center">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Animated Introduction" width="500">
+</div>
 
-This repository is a part of my personal projects that demonstrate my skills in:
+---
 
-- 💻 Full-stack development with MERN
-- 🖌 Tailwind CSS and responsive UI design
-- 📈 Machine Learning and data visualization
-- 🔌 Backend development with Node.js and Express
-- 📱 Flutter and Dart mobile app development
+## 🚀 Project Overview
 
-## Table of Contents
+This repository is part of my personal projects, demonstrating my skills in:
+
+- 💻 **Full-stack Development**: MERN, Next.js
+- 🎨 **UI/UX Design**: Tailwind CSS, Figma
+- 📈 **Machine Learning**: Data visualization with Python
+- 🔌 **Backend Development**: Secure and scalable APIs
+- 📱 **Mobile Development**: Flutter and Dart
+
+---
+
+## 📋 Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Contribution](#contribution)
 - [License](#license)
 
-## Installation
+---
 
-Follow these steps to set up the project locally:
+## 🛠 Installation
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/Wasanjith/your-repo-name.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd your-repo-name
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-## Usage
-
-Run the following command to start the project:
-
-```bash
-npm start
-```
-
-Then, open [http://localhost:3000](http://localhost:3000) in your web browser.
-
-## Features
-
-- 🚀 Fast and efficient development environment
-- 🎨 Customizable components
-- 🔒 Secure API endpoints
-
-## Contribution
-
-I welcome contributions! Feel free to fork this repository, create a new branch, and submit a pull request. 🙌
-
-## License
-
-This project is licensed under the **MIT License**.
