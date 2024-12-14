@@ -1,7 +1,7 @@
 # Welcome to My Repository
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Your+Project+Banner" alt="Project Banner" style="border-radius: 10px;">
+  <img src="[https://via.placeholder.com/800x200.png?text=Your+Project+Banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)" alt="Project Banner" style="border-radius: 10px;">
 </div>
 
 ---
