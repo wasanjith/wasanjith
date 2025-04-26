@@ -11,8 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/@wasanjith______" target="blank"><img src="https://img.shields.io/twitter/follow/@wasanjith______?logo=twitter&style=for-the-badge" alt="@wasanjith______" /></a> </p>
 
-- 🔭 I’m currently working on [PHEEEW Clothing App](https://github.com/wasanjith/E-Commerce-App)
-
 - 🌱 I’m currently learning **JavaScript, Python, Java,**
 
 - 👯 I’m looking to collaborate on [Galoya Vishwa ERP System](https://github.com/wasanjith/Galoya-Vishwa-ERP-)
@@ -20,8 +18,6 @@
 - 👨‍💻 All of my projects are available at [www.wasanjith.com](www.wasanjith.com)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/wasanjith-kodikara-97165228a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/wasanjith-kodikara-97165228a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-- 💬 Ask me about **react, .NET, C++**
 
 - 📫 How to reach me **wasakodi79@gmail.com**
 
